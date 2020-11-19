@@ -1,0 +1,17 @@
+.section-title h1{
+    font-size:70px;
+    font-family: 'Abril Fatface', cursive;
+}
+.section-title h2 {
+  font-family: 'Abril Fatface', cursive;
+}
+p{
+    font-size:14px;
+    font-weight: 300;
+}
+.home-main{
+  background-image: url("/src/siteImages/headerbg.png");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+}
