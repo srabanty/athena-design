@@ -17,7 +17,7 @@ const HomeMain = () => {
                         </div>
                     </div>
                     <div className="col-md-6 col-sm-6 col-12">
-                        <img src={homeBanner} alt="homeBanner" className="img-fluid" />
+                        <img src={homeBanner} alt="homeBanner" className="img-fluid img-responsive py-5" />
                     </div>
                 </div>
             </div>

@@ -6,7 +6,7 @@ const Services = () => {
         <section className="py-5 services">
             <div className="container">
                 <div className="row d-flex align-items-center justify-content-center">
-                    <div className="col-md-5 col-sm-12 col-12 ">
+                    <div className="col-md-5 col-sm-12 col-12">
                         <img src={services} alt="services" className="img-fluid" />
                     </div>
                     <div className="col-md-7 col-sm-12 col-12">
