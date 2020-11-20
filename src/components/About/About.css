@@ -1,0 +1,18 @@
+.about{
+    background-color:#FAFFFD;
+    background-image: url("/src/siteImages/servicesbg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+.single-about{
+    transition: all .5s ease-in-out;
+}
+.single-about:hover{
+    background-color: #fff;
+    box-shadow: 0 0 15px 15px #e5faf2;
+    border-radius: 55px 4px 55px 4px;
+}
+.single-about img{
+    height: 80px;
+}
