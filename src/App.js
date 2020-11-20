@@ -6,7 +6,6 @@ function App() {
   return (
     <div>
       <HomeMain />
-      <HomeMain />
       <About />
       <Services />
     </div>
